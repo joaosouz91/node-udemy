@@ -1,0 +1,2 @@
+node -> plataforma que executa código javascript
+express -> framework, camada que vai acima do node que faz a interface entre os nossos scripts e o node
